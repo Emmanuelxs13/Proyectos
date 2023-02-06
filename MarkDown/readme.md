@@ -17,7 +17,7 @@ Good morning, good afternoon and good evening, I´m a software developer,
 
 <hr>
 ###What I'm up to?
->- 📓Learning about Api.
->- 📘Learning React.
->- 🗽Improve my english.
->- 🧉Creating personal projects.
+> - 📓Learning about Api.
+> - 📘Learning React.
+> - 🗽Improve my english.
+> - 🧉Creating personal projects.
