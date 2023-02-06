@@ -6,6 +6,7 @@
 ![img1](https://picsum.photos/1000/200)
 
 Good morning, good afternoon and good evening, I´m a software developer, 
+
 🧠**With knowledge in:**
 >💻JavaScript-Css-Html
 🔐Php-Mysql
@@ -16,7 +17,9 @@ Good morning, good afternoon and good evening, I´m a software developer,
 🇺🇸 English-Intermediate
 
 <hr>
+
 ### What I'm up to?
+
 > - 📓Learning about Api.
 > - 📘Learning React.
 > - 🗽Improve my english.
