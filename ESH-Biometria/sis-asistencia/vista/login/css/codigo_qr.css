@@ -1,0 +1,27 @@
+
+*{
+    margin: 15px;
+}
+
+section{text-align: center;}
+
+.heading h1{font-size: 45px;}
+
+.userinput{border: 1px solid #198778;
+    padding: 15px;
+    margin: 5px; 
+    text-align: center;}
+
+#intext{
+    width: 100%; 
+    border: 1px solid #198778;
+    border-radius: 25px;
+    padding: 5px;}
+
+#btngenera, #dscr{
+    margin: 10px auto
+    ;padding: 5px 10px;
+    cursor: pointer;}
+
+.qrcode-final img{
+    margin: 15px auto;}

@@ -1,0 +1,79 @@
+/* Setting the margin, padding, and box-sizing to 0. */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Setting the font and background color. */
+body{
+    font-family: 'Nunito', sans-serif;
+    background: rgb(217, 226, 236);
+}
+
+/* Setting the text-align, padding, font-size, and color of the h1 tag. */
+h1{
+    text-align: center;
+    padding: 20px;
+    font-size: 40px;
+    color: rgb(56, 56, 56);
+}
+
+/* Setting the text-align, color, font-weight, and font-size of the #fecha id. */
+#fecha{
+    text-align: center;
+    color: rgb(148, 148, 148);
+    font-weight: normal;
+    font-size: 30px;
+}
+
+/* Setting the width, background, padding, and margin of the container class. */
+.container{
+    width: 700px;
+    background: white;
+    padding: 20px;
+    margin: auto;
+}
+
+/* Setting the color of the class acceso to rgb(8, 89, 255). */
+.acceso{
+    color: rgb(8, 89, 255);
+}
+
+/* Setting the text-align and font-size of the class cedula. */
+.cedula{
+    text-align: center;
+    font-size: 30px;
+}
+
+/* Setting the width, padding, border, and outline of the input tag. */
+input{
+    width: 100%;
+    padding: 30px;
+    outline: none;
+}
+
+/* Setting the display of the class botones to flex. */
+.botones{
+    display: flex;
+}
+
+/* Setting the background, width, padding, color, text-align, and text-decoration of the class entrada. */
+.entrada{
+    background: rgb(56, 150, 193);
+    width: 100%;
+    padding: 25px 35px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Setting the background, width, padding, color, text-align, and text-decoration of the class salida. */
+.salida{
+    background: rgb(29, 74, 119);
+    width: 100%;
+    padding: 25px 35px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}

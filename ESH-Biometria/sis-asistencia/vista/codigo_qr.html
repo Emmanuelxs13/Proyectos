@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+    <html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../vista/login/css/codigo_qr.css">
+    <!--BOOTSTRAP-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.min.js" integrity="sha384-IDwe1+LCz02ROU9k972gdyvl+AESN10+x7tBKgc9I5HFtuNz0wWnPclzo6p9vxnk" crossorigin="anonymous"></script>
+    <title>Generador Qr</title>
+</head>
+    <body>
+    <section class="heading">
+        <h1>Comercializadora el rey de los remates S A S</h1>
+            <br>
+        <h2>QR_Codes Generator</h2>
+            <br>
+    </section>
+    <section class="userinput">
+        <label>Escribe la cédula:
+            <input type="text" name="intext" id="intext">
+        </label><br>
+        <br>
+        <i class="bi bi-arrow-down-circle-fill"><button type="submit" id="btngenera">Generar QR_Code</button></i>
+    </section>
+    <section>
+        <div class="qrcode-final" style="display: none;"></div>
+    </section>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script><!--libreria de referencia para qr-->
+        <script src="codigo_qr.js"></script>
+        <br>
+        <i class="bi bi-arrow-left-circle-fill"><button name="Regresar"><a href="inicio.php">Regresar</a></button></i>   
+    </body>
+</html>
