@@ -1,0 +1,31 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.game_board_wrap {
+    background-color: #578a35;
+    margin: 0 auto;
+    display: inline-block;
+    vertical-align: top;
+    padding: 0 20px;
+}
+
+.header {
+    background-color: #4a762c;
+    padding: 20px;
+}
+
+#score {
+    color: #fff;
+    display: flex;
+}
+
+#game_board {
+    width: 600px;
+    height: 400px;
+    background-color: #fff;
+    position: relative;
+    overflow: hidden;
+}
+
