@@ -1,3 +1,5 @@
-import fetchPokemon from "./fetch_pokemon.js";
+import AllPokemon from "./lib/pokemons/all-pokemon.js";
+import ButtonEvents from "./lib/buttons/buttons-event.js";
 
-fetchPokemon();
+const fetchPokemon: AllPokemon = new AllPokemon("https://pokeapi.co/api/v2/pokemon");
+const buttonEvents: ButtonEvents = new ButtonEvents();

@@ -1,0 +1,51 @@
+:root {
+  --my-red: #e8372d;
+}
+/* Reset Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img[src="./assets/img/pokemon-not-found.png"] {
+  height: 95px;
+}
+
+/* Generals */
+
+body {
+  font-family: "Roboto Mono", monospace;
+}
+
+figure {
+  height: 200px;
+  border: solid 1px var(--my-red);
+  border-radius: 15px;
+  box-shadow: 15px 15px 20px #000;
+}
+
+/* Header */
+
+.Header {
+  background: url("../img/backgroundHeader.png");
+  height: 13vh;
+}
+
+/* Pokemons */
+
+.Pokemon-figure {
+  padding: 1rem;
+}
+
+/* Buttons */
+
+.Button-boxButtonPokemon {
+  width: 100%;
+}
+
+.Button-pokemon {
+  width: 100%;
+  margin: 1rem auto;
+  font-weight: 700;
+}

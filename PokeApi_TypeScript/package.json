@@ -1,12 +1,9 @@
 {
-  "name": "pokeapi_typescript",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "name": "pokegallery",
+  "version": "0.0.1",
+  "description": "Website about a pokemon gallery.",
+  "main": "index.html",
+  "repository": "https://github.com/gregoryvicent/pokegallery.git",
+  "author": "Gregory Vicent <gregory.work14@gmail.com>",
+  "license": "MIT"
 }
