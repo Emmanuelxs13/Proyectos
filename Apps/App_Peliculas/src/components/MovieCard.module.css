@@ -16,6 +16,10 @@
     /* background-color: azure; */
 }
 
+.title{
+    color: white;
+  }
+
 @media (max-width: 560px) {
     .movieImage {
         width: 90%;
