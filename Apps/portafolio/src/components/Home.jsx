@@ -38,7 +38,7 @@ const Home = () => {
 
         {/* BUTTONS - Se descarga el cv*/}
           <div className='flex md:flex-row items-center gap-6'>
-            <a href='../../public/pdf/CV-Emmanuel Berrio Jimenez.pdf' target={'_blank'} className='bg-primary text-white py-2 px-8 rounded-xl text-xl xl:w-auto hover:bg-[#05AE8C]'>
+            <a href='./public/pdf/CV-Emmanuel Berrio Jimenez.pdf' target={'_blank'} className='bg-primary text-white py-2 px-8 rounded-xl text-xl xl:w-auto hover:bg-[#05AE8C]'>
               Descargar CV
             </a>
           
@@ -58,7 +58,7 @@ const Home = () => {
     {/* PROFILE IMAGE */}
     <div className='md:col-span-3 flex items-center justify-center relative'>
       <div>
-        <img src='../../public/img/fotoPerfil.JPG' className='w-56 h-56 md:w-96 md:h-96 object-cover rounded-full'/>
+        <img src='./public/img/fotoPerfil.JPG' className='w-56 h-56 md:w-96 md:h-96 object-cover rounded-full'/>
 
         {/* BACKGROUND CIRCLE */}
         <div className='absolute top-1/2 -translate-y-1/2 left-1/2 -translate-x-1/2 w-[300px] h-[300px] md:w-[480px] md:h-[480px] bg-second border-[25px] border-primary rounded-full -z-10'></div>

@@ -52,7 +52,7 @@ const Education = () => {
                                 <p className="mb-3 text-gray-600">
                                     En este curso desarrollé y sigo mejorando mis habilidades lingüísticas en el idioma inglés, logrando así poder comprender y saber expresar mis ideas con claridad, leyendo y escuchando de manera eficaz para la correcta comunicación en este lenguaje.
                                 </p>
-                                <a href='../../public/pdf/EF SET Certificate.pdf' target={'_blank'} className='bg-primary text-white py-1 px-5 rounded-xl text-xl xl:w-auto hover:bg-[#05AE8C]'>EF SET Certifacate
+                                <a href='./public/pdf/EF SET Certificate.pdf' target={'_blank'} className='bg-primary text-white py-1 px-5 rounded-xl text-xl xl:w-auto hover:bg-[#05AE8C]'>EF SET Certifacate
                                 </a>
                             </div>
                         </div>

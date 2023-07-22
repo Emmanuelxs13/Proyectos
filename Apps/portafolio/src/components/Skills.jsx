@@ -167,35 +167,35 @@ const Skills = () => {
 
                 {/* IMAGES */}
                     {/* HTML */}
-                    <img src="../../public/img/HTML5.png" className='hidden sm:block w-[5rem] ml-[11rem] mt-[11rem] transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 object-cover'/>
+                    <img src="./public/img/HTML5.png" className='hidden sm:block w-[5rem] ml-[11rem] mt-[11rem] transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 object-cover'/>
 
                     {/* CSS */}
-                    <img src="../../public/img/css3.png" className='hidden sm:block w-[3.7rem] -mt-[25rem] ml-[59rem] transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 object-cover'/>
+                    <img src="./public/img/css3.png" className='hidden sm:block w-[3.7rem] -mt-[25rem] ml-[59rem] transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 object-cover'/>
 
                     {/* JAVASCRIPT */}
-                    <img src="../../public/img/JavaScript_logo.png" className='hidden sm:block w-[4.5rem] -mt-[24.5rem] ml-[26rem] rounded-xl transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 object-cover'/>
+                    <img src="./public/img/JavaScript_logo.png" className='hidden sm:block w-[4.5rem] -mt-[24.5rem] ml-[26rem] rounded-xl transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 object-cover'/>
 
                     {/* PHP */}
-                    <img src="../../public/img/php_logo.png" className='hidden sm:block w-[5.5rem] h-[5rem] -mt-[21rem] ml-[74rem] rounded-xl transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 object-cover'/>
+                    <img src="./public/img/php_logo.png" className='hidden sm:block w-[5.5rem] h-[5rem] -mt-[21rem] ml-[74rem] rounded-xl transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 object-cover'/>
 
                     {/* MYSQL */}
-                    <img src="../../public/img/mysql_logo.png" className='hidden sm:block w-[5rem] -mt-[28rem] ml-[7rem] rounded-xl transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 object-cover'/>
+                    <img src="./public/img/mysql_logo.png" className='hidden sm:block w-[5rem] -mt-[28rem] ml-[7rem] rounded-xl transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 object-cover'/>
 
                     {/* REACTJS */}
-                    <img src="../../public/img/React_logo.jpg" className='hidden sm:block w-[6.5rem] h-[5rem] -mt-[33rem] ml-[55rem] rounded-xl transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 object-cover'/>
+                    <img src="./public/img/React_logo.jpg" className='hidden sm:block w-[6.5rem] h-[5rem] -mt-[33rem] ml-[55rem] rounded-xl transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 object-cover'/>
 
                     {/* VUEJS */}
-                    <img src="../../public/img/Vuejs_logo.png"className='hidden sm:block w-[5rem] -mt-[32.5rem] ml-[23rem] transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 object-cover'/>
+                    <img src="./public/img/Vuejs_logo.png"className='hidden sm:block w-[5rem] -mt-[32.5rem] ml-[23rem] transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 object-cover'/>
 
                     {/* TYPESCRIPT */}
-                    <img src='../../public/img/Typescript_logo.png' className='hidden sm:block w-[4.7rem] -mt-[32.5rem] ml-[72rem] rounded-xl transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 object-cover'/>
+                    <img src='./public/img/Typescript_logo.png' className='hidden sm:block w-[4.7rem] -mt-[32.5rem] ml-[72rem] rounded-xl transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 object-cover'/>
 
                     {/* TAILWIND */}
-                    <img src='../../public/img/Sass.png' className='hidden sm:block w-[5rem] -mt-[28rem] ml-[37.5rem] rounded-xl transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 object-cover'/>
+                    <img src='./public/img/Sass.png' className='hidden sm:block w-[5rem] -mt-[28rem] ml-[37.5rem] rounded-xl transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 object-cover'/>
 
                 
                     {/* PERSON */}
-                <img src="../../public/img/Thinking.jpg" className='hidden sm:block w-[20rem] ml-[57rem] -mt-[20rem] -z-50'/>
+                <img src="./public/img/Thinking.jpg" className='hidden sm:block w-[20rem] ml-[57rem] -mt-[20rem] -z-50'/>
 
             </div>
 
