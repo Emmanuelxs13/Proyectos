@@ -10,5 +10,5 @@ Feel free to browse my projects and explore my code. If you have any questions o
 Thank you for visiting, and I look forward to connecting with you!
 
 >  How to reach me?
-- Email: emmanuelberriojimenez@gmail.com
+- Email: emmanuelberriojimenez13@gmail.com
 
